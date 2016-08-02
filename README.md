@@ -29,3 +29,5 @@ Welches Framework dafür genutzt wird, steht aber noch aus.
 
 Bisher ist nichts endgültig!
 Einige Features werden sicherlich verworfen und dafür andere hinzukommen. 
+
+EDIT: es soll pygame1.9.2 und python3.4 verwendet werden
