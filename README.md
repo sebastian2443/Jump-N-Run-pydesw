@@ -1,5 +1,6 @@
 # Jump-N-Run-pydesw
-Projekt der Community aus: www.python-forum.de
+Projekt der Community aus: www.python-forum.de https://python-forum-de.github.io
+
 Link zum Thread aus dem Forum: https://www.python-forum.de/viewtopic.php?f=6&t=38858
 Programmiersprache der Wahl: Python
 
@@ -28,3 +29,5 @@ Welches Framework dafür genutzt wird, steht aber noch aus.
 
 Bisher ist nichts endgültig!
 Einige Features werden sicherlich verworfen und dafür andere hinzukommen. 
+
+EDIT: es soll pygame1.9.2 und python3.4 verwendet werden
